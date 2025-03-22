@@ -1,0 +1,10 @@
+__pycache__
+common_voice
+common_voice/cv-invalid
+common_voice/cv-other-dev
+common_voice/cv-other-test
+common_voice/cv-other-train
+common_voice/cv-valid-dev
+common_voice/cv-valid-test
+common_voice/cv-valid-train
+venv

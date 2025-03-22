@@ -1,0 +1,7 @@
+common_voice/
+*.mp3
+__pycache__/
+*.csv
+*.zip
+*.tar
+venv/

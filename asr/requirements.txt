@@ -1,0 +1,7 @@
+fastapi
+torch
+transformers
+torchaudio
+pandas
+pydub
+numpy
